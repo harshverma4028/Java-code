@@ -20,5 +20,6 @@ public class LL {
         list.removeLast();
 
         System.out.println(list);
+        
     }
 }
